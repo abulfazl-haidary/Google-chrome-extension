@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Abulfazl Haidary",
+    "description": "Quick launch Abulfazl Hiadary Contact",
+    "version": "1.0.0",
+    "icons": {"640": "Abulfazl.jpeg"},
+    "browser_action": {
+        "default_icon": "Abulfazl.jpeg",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
